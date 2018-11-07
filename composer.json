@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/dom-crawler": "^4.1",
+        "symfony/css-selector": "^4.1",
+        "league/csv": "^9.1",
+        "danielstjules/stringy": "^3.1"
+    }
+}
